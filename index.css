@@ -1,0 +1,13 @@
+.inputs{
+    width: 100%;
+}
+.container{
+    /* background-color: red; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 30px;
+    width: 30px;
+}
